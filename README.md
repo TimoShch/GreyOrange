@@ -1,2 +1,2 @@
-# nitrogen
-N2. Interface theme for Blender.
+# N2
+Interface theme for Blender.
