@@ -945,12 +945,12 @@
       </ThemeUserPreferences>
     </user_preferences>
     <console>
-      <ThemeConsole line_output="#869dbf"
+      <ThemeConsole line_output="#82a4d9"
                     line_input="#cfd8e6"
                     line_info="#acbf60"
                     line_error="#d95757"
-                    cursor="#f2b355"
-                    select="#e6f0ff33">
+                    cursor="#82a4d9"
+                    select="#7391bf33">
         <space>
           <ThemeSpaceGeneric back="#181a1c"
                              title="#080809"
