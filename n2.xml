@@ -585,7 +585,7 @@
                         paint_curve_handle="#7fff7f7f"
                         paint_curve_pivot="#ff7f7f7f">
         <space>
-          <ThemeSpaceGeneric back="#3e4145"
+          <ThemeSpaceGeneric back="#3e4147"
                              title="#cfd8e6"
                              text="#cfd8e6"
                              text_hi="#e6f0ff"
@@ -1005,7 +1005,7 @@
                        handle_vertex_select="#ffff40"
                        handle_vertex_size="4">
         <space>
-          <ThemeSpaceGeneric back="#3d4145"
+          <ThemeSpaceGeneric back="#3e4147"
                              title="#000000"
                              text="#000000"
                              text_hi="#e6f0ff"
