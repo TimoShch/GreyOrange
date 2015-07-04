@@ -1,2 +1,2 @@
-# N2
+# North
 Interface theme for Blender.
