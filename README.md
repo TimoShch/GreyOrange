@@ -1,2 +1,2 @@
-# North and 43
+# "North" and "Grey Orange"
 Interface themes for Blender.
