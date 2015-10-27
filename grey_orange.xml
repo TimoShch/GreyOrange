@@ -768,26 +768,26 @@
                        node_active="#cc8c52"
                        wire="#000000"
                        wire_inner="#303133"
-                       wire_select="#cc925c"
+                       wire_select="#cc8c52"
                        selected_text="#7f7070"
-                       node_backdrop="#999999cc"
-                       converter_node="#76b8b8"
-                       color_node="#e6d168"
-                       group_node="#657070"
-                       group_socket_node="#dfb343"
-                       frame_node="#8a909966"
-                       matte_node="#bb7070"
-                       distor_node="#84bf9c"
+                       node_backdrop="#85888cff"
+                       converter_node="#73bbbf"
+                       color_node="#f2bd6d"
+                       group_node="#5c6873"
+                       group_socket_node="#e6e173"
+                       frame_node="#8a909980"
+                       matte_node="#bf6969"
+                       distor_node="#74b38d"
                        noodle_curving="5"
-                       input_node="#8a96a8"
-                       output_node="#8a96a8"
-                       filter_node="#cc9f70"
-                       vector_node="#898bcc"
-                       texture_node="#85a9de"
-                       shader_node="#86c468"
-                       script_node="#686a75"
-                       pattern_node="#686a75"
-                       layout_node="#575b61">
+                       input_node="#99a8bf"
+                       output_node="#99a8bf"
+                       filter_node="#d99b62"
+                       vector_node="#7872c4"
+                       texture_node="#80a6df"
+                       shader_node="#8bbf56"
+                       script_node="#7480a6"
+                       pattern_node="#7480a6"
+                       layout_node="#676c73">
         <space>
           <ThemeSpaceGeneric back="#494a4d"
                              title="#000000"
@@ -814,10 +814,10 @@
           </ThemeSpaceGeneric>
         </space>
         <space_list>
-          <ThemeSpaceListGeneric list="#3a3b3c"
+          <ThemeSpaceListGeneric list="#303133"
                                  list_title="#dadfe6"
                                  list_text="#dadfe6"
-                                 list_text_hi="#eb9f46">
+                                 list_text_hi="#e69e5c">
           </ThemeSpaceListGeneric>
         </space_list>
       </ThemeNodeEditor>
