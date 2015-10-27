@@ -1,2 +1,2 @@
-# "North" and "Grey Orange"
-Interface themes for Blender.
+# Grey Orange
+Interface theme for Blender.
