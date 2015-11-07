@@ -107,7 +107,7 @@
         </wcol_numslider>
         <wcol_box>
           <ThemeWidgetColors outline="#0d0d0d"
-                             inner="#3f4042ff"
+                             inner="#3d3e40ff"
                              inner_sel="#555759ff"
                              item="#000000ff"
                              text="#dadfe6"
@@ -166,7 +166,7 @@
           </ThemeWidgetColors>
         </wcol_pie_menu>
         <wcol_tooltip>
-          <ThemeWidgetColors outline="#a87443"
+          <ThemeWidgetColors outline="#303133"
                              inner="#18191afa"
                              inner_sel="#121313f2"
                              item="#18191afa"
@@ -291,12 +291,12 @@
                    normal="#36c5d9"
                    vertex_normal="#396ae6"
                    split_normal="#d92b9e"
-                   bone_solid="#ccc7c7"
-                   bone_pose="#55a7f2"
-                   bone_pose_active="#52f2f2"
+                   bone_solid="#c2c9cc"
+                   bone_pose="#578bd9"
+                   bone_pose_active="#52dff2"
                    frame_current="#60c040"
                    outline_width="1"
-                   bundle_solid="#bfbaba"
+                   bundle_solid="#c2c9cc"
                    camera_path="#000000"
                    skin_root="#000000"
                    clipping_border_3d="#313131ff"
@@ -304,7 +304,7 @@
                    paint_curve_pivot="#ff7f7f7f">
         <space>
           <ThemeSpaceGradient title="#dadfe6"
-                              text="#dadfe6"
+                              text="#000000"
                               text_hi="#dadfe6"
                               header="#303133"
                               header_text="#dadfe6"
@@ -340,9 +340,9 @@
                         window_sliders="#969696"
                         channels_region="#707070"
                         dopesheet_channel="#434c59"
-                        dopesheet_subchannel="#575d66"
-                        channel_group="#59664d"
-                        active_channels_group="#87b17d"
+                        dopesheet_subchannel="#4c5159"
+                        channel_group="#394736"
+                        active_channels_group="#3f4f46"
                         vertex="#000000"
                         vertex_select="#ffa829"
                         vertex_size="4"
@@ -402,9 +402,9 @@
                         active_file="#797c80"
                         active_file_text="#dadfe6">
         <space>
-          <ThemeSpaceGeneric back="#6d6f73"
-                             title="#000000"
-                             text="#000000"
+          <ThemeSpaceGeneric back="#494a4d"
+                             title="#dadfe6"
+                             text="#dadfe6"
                              text_hi="#dadfe6"
                              header="#303133"
                              header_text="#dadfe6"
@@ -772,7 +772,7 @@
                        selected_text="#7f7070"
                        node_backdrop="#85888cff"
                        converter_node="#73bbbf"
-                       color_node="#f2bd6d"
+                       color_node="#e6b873"
                        group_node="#5c6873"
                        group_socket_node="#e6e173"
                        frame_node="#8a909980"
@@ -784,7 +784,7 @@
                        filter_node="#d99b62"
                        vector_node="#7872c4"
                        texture_node="#80a6df"
-                       shader_node="#8bbf56"
+                       shader_node="#94cc5c"
                        script_node="#7480a6"
                        pattern_node="#7480a6"
                        layout_node="#676c73">
@@ -949,7 +949,7 @@
       </ThemeUserPreferences>
     </user_preferences>
     <console>
-      <ThemeConsole line_output="#919499"
+      <ThemeConsole line_output="#8a9099"
                     line_input="#e69e5c"
                     line_info="#79d94c"
                     line_error="#f24949"
