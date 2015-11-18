@@ -438,8 +438,8 @@
     <nla_editor>
       <ThemeNLAEditor grid="#3d3e40"
                       view_sliders="#969696"
-                      active_action="#cc813366"
-                      active_action_unset="#9987614d"
+                      active_action="#cc8b4766"
+                      active_action_unset="#998d6366"
                       strips="#0c0c0d"
                       strips_selected="#cc8c52"
                       transition_strips="#1c2630"
@@ -480,8 +480,8 @@
         </space>
         <space_list>
           <ThemeSpaceListGeneric list="#303133"
-                                 list_title="#dadfe6"
-                                 list_text="#dadfe6"
+                                 list_title="#000000"
+                                 list_text="#000000"
                                  list_text_hi="#e69e5c">
           </ThemeSpaceListGeneric>
         </space_list>
@@ -496,8 +496,8 @@
                       dopesheet_subchannel="#575d66"
                       channels="#707070"
                       channels_selected="#60c040"
-                      channel_group="#4f6549"
-                      active_channels_group="#87b17d"
+                      channel_group="#405437"
+                      active_channels_group="#324d34"
                       long_key="#0c0a0a"
                       long_key_selected="#ff8c00"
                       keyframe="#dadfe6"
@@ -510,7 +510,7 @@
                       keyframe_jitter_selected="#61c042"
                       keyframe_border="#000000ff"
                       keyframe_border_selected="#000000ff"
-                      summary="#66513d80">
+                      summary="#73553980">
         <space>
           <ThemeSpaceGeneric back="#616366"
                              title="#000000"
@@ -950,7 +950,7 @@
     </user_preferences>
     <console>
       <ThemeConsole line_output="#8a9099"
-                    line_input="#e69e5c"
+                    line_input="#c4d1e6"
                     line_info="#79d94c"
                     line_error="#f24949"
                     cursor="#cc8c52"
