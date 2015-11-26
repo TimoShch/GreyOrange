@@ -1,4 +1,4 @@
-![grey_orange](images/greyOrange.svg)
+![grey_orange](images/greyOrange.png)
 
 Interface theme for Blender.
 
