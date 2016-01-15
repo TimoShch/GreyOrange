@@ -693,11 +693,11 @@
       <ThemeTextEditor line_numbers_background="#121314"
                        selected_text="#3d4147"
                        cursor="#cc8c52"
-                       syntax_builtin="#8ebce6"
+                       syntax_builtin="#9ae64e"
                        syntax_symbols="#c2c6cc"
                        syntax_special="#f2856d"
                        syntax_preprocessor="#73c3e6"
-                       syntax_reserved="#9ae64e"
+                       syntax_reserved="#7ea1e6"
                        syntax_comment="#737880"
                        syntax_string="#e6a75c"
                        syntax_numbers="#d95757">
@@ -954,7 +954,7 @@
                     line_info="#79d94c"
                     line_error="#f24949"
                     cursor="#cc8c52"
-                    select="#84888c26">
+                    select="#84888c33">
         <space>
           <ThemeSpaceGeneric back="#1b1b1c"
                              title="#dadfe6"
