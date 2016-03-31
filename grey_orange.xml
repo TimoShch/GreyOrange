@@ -886,19 +886,19 @@
     </outliner>
     <info>
       <ThemeInfo info_selected="#1b1b1c"
-                 info_selected_text="#d99b62"
+                 info_selected_text="#ced2d9"
                  info_error="#1b1b1c"
                  info_error_text="#f24949"
                  info_warning="#1b1b1c"
-                 info_warning_text="#6db2f2"
+                 info_warning_text="#d99b62"
                  info_info="#1b1b1c"
                  info_info_text="#79d94c"
                  info_debug="#1b1b1c"
-                 info_debug_text="#a6a1e6">
+                 info_debug_text="#6c98d9">
         <space>
           <ThemeSpaceGeneric back="#1b1b1c"
                              title="#ced2d9"
-                             text="#ced2d9"
+                             text="#8a9099"
                              text_hi="#ced2d9"
                              header="#373839"
                              header_text="#ced2d9"
