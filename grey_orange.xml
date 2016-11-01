@@ -256,7 +256,7 @@
                    lamp="#00000028"
                    speaker="#000000"
                    vertex="#000000"
-                   vertex_select="#d98e4a"
+                   vertex_select="#d9934a"
                    vertex_size="3"
                    vertex_unreferenced="#404040"
                    edge_select="#cc7e45"
@@ -267,7 +267,7 @@
                    freestyle_edge_mark="#88f26d"
                    face="#00000013"
                    face_select="#7351393b"
-                   face_dot="#d98e4a"
+                   face_dot="#d9934a"
                    facedot_size="2"
                    freestyle_face_mark="#61f23d33"
                    nurb_uline="#909000"
@@ -398,11 +398,7 @@
       </ThemeGraphEditor>
     </graph_editor>
     <file_browser>
-      <ThemeFileBrowser selected_file="#d1955e"
-                        scrollbar="#5c5e61"
-                        scroll_handle="#505254"
-                        active_file="#797c80"
-                        active_file_text="#ced2d9">
+      <ThemeFileBrowser selected_file="#d1955e">
         <space>
           <ThemeSpaceGeneric back="#494a4d"
                              title="#ced2d9"
@@ -428,13 +424,6 @@
             </panelcolors>
           </ThemeSpaceGeneric>
         </space>
-        <space_list>
-          <ThemeSpaceListGeneric list="#373839"
-                                 list_title="#ced2d9"
-                                 list_text="#ced2d9"
-                                 list_text_hi="#e6a468">
-          </ThemeSpaceListGeneric>
-        </space_list>
       </ThemeFileBrowser>
     </file_browser>
     <nla_editor>
@@ -512,6 +501,7 @@
                       keyframe_jitter_selected="#61c042"
                       keyframe_border="#000000ff"
                       keyframe_border_selected="#000000ff"
+                      keyframe_scale_factor="1"
                       summary="#73553980">
         <space>
           <ThemeSpaceGeneric back="#6d6f73"
@@ -552,12 +542,12 @@
                         gp_vertex_select="#f2cd49"
                         gp_vertex_size="3"
                         vertex="#000000"
-                        vertex_select="#d98e4a"
+                        vertex_select="#d9934a"
                         vertex_size="3"
                         vertex_unreferenced="#404040"
                         face="#292e3333"
                         face_select="#7351393b"
-                        face_dot="#d98e4a"
+                        face_dot="#d9934a"
                         facedot_size="2"
                         freestyle_face_mark="#00000000"
                         editmesh_active="#ffffff80"
