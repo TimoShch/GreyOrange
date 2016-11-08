@@ -47,9 +47,9 @@
         </wcol_radio>
         <wcol_text>
           <ThemeWidgetColors outline="#0d0d0d"
-                             inner="#797c80ff"
-                             inner_sel="#919499ff"
-                             item="#d18d5cff"
+                             inner="#7f8186ff"
+                             inner_sel="#d18d5cff"
+                             item="#6d6f73ff"
                              text="#000000"
                              text_sel="#000000"
                              show_shaded="FALSE"
@@ -84,8 +84,8 @@
         <wcol_num>
           <ThemeWidgetColors outline="#0d0d0d"
                              inner="#6d6f73ff"
-                             inner_sel="#787878ff"
-                             item="#ba7e52ff"
+                             inner_sel="#d18d5cff"
+                             item="#85878cff"
                              text="#000000"
                              text_sel="#000000"
                              show_shaded="FALSE"
@@ -96,8 +96,8 @@
         <wcol_numslider>
           <ThemeWidgetColors outline="#0d0d0d"
                              inner="#6d6f73ff"
-                             inner_sel="#787878ff"
-                             item="#ba7e52ff"
+                             inner_sel="#d18d5cff"
+                             item="#6d6f73ff"
                              text="#000000"
                              text_sel="#000000"
                              show_shaded="FALSE"
@@ -299,7 +299,7 @@
                    camera_path="#000000"
                    skin_root="#000000"
                    view_overlay="#000000"
-                   transform="#c4ccd9"
+                   transform="#d0d4db"
                    frame_current="#60c040"
                    paint_curve_handle="#7fff7f7f"
                    paint_curve_pivot="#ff7f7f7f"
