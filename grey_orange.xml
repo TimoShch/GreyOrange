@@ -216,7 +216,7 @@
         <wcol_list_item>
           <ThemeWidgetColors outline="#0d0d0d"
                              inner="#00000000"
-                             inner_sel="#38393bff"
+                             inner_sel="#5d5f63ff"
                              item="#d18d5cff"
                              text="#ced2d9"
                              text_sel="#ced2d9"
