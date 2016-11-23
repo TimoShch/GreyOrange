@@ -14,7 +14,7 @@
                              inner="#6d6f73ff"
                              inner_sel="#ba7e52ff"
                              item="#d18d5cff"
-                             text="#000000"
+                             text="#ced2d9"
                              text_sel="#000000"
                              show_shaded="FALSE"
                              shadetop="0"
@@ -216,10 +216,10 @@
         <wcol_list_item>
           <ThemeWidgetColors outline="#0d0d0d"
                              inner="#00000000"
-                             inner_sel="#6d6f73ff"
+                             inner_sel="#38393bff"
                              item="#d18d5cff"
                              text="#ced2d9"
-                             text_sel="#000000"
+                             text_sel="#ced2d9"
                              show_shaded="FALSE"
                              shadetop="0"
                              shadedown="0">
