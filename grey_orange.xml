@@ -14,7 +14,7 @@
                              inner="#6d6f73ff"
                              inner_sel="#ba7e52ff"
                              item="#d18d5cff"
-                             text="#000000"
+                             text="#ced2d9"
                              text_sel="#000000"
                              show_shaded="FALSE"
                              shadetop="0"
@@ -337,7 +337,7 @@
       </ThemeView3D>
     </view_3d>
     <graph_editor>
-      <ThemeGraphEditor grid="#3d3e40"
+      <ThemeGraphEditor grid="#46484a"
                         frame_current="#d18d5c"
                         window_sliders="#969696"
                         channels_region="#707070"
