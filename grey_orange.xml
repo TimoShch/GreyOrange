@@ -206,8 +206,8 @@
                              inner="#6d6f73ff"
                              inner_sel="#484848ff"
                              item="#ba7e52ff"
-                             text="#ced2d9"
-                             text_sel="#ced2d9"
+                             text="#000000"
+                             text_sel="#000000"
                              show_shaded="FALSE"
                              shadetop="5"
                              shadedown="-5">
