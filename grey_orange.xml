@@ -690,34 +690,34 @@
       <ThemeTextEditor line_numbers_background="#121314"
                        selected_text="#373a40"
                        cursor="#d18d5c"
-                       syntax_builtin="#f2856d"
+                       syntax_builtin="#61afef"
                        syntax_symbols="#a3acbf"
-                       syntax_special="#8bb359"
-                       syntax_preprocessor="#859dcc"
-                       syntax_reserved="#cc925c"
+                       syntax_special="#c678dd"
+                       syntax_preprocessor="#be5046"
+                       syntax_reserved="#56b6c2"
                        syntax_comment="#6c7480"
-                       syntax_string="#bf9c7c"
-                       syntax_numbers="#7cabbf">
+                       syntax_string="#98c379"
+                       syntax_numbers="#d19a66">
         <space>
           <ThemeSpaceGeneric back="#181a1c"
                              title="#ced2d9"
                              text="#b8c0cc"
                              text_hi="#ced2d9"
-                             header="#373839"
+                             header="#3e3f40"
                              header_text="#d95757"
                              header_text_hi="#ced2d9"
-                             button="#373839e6"
+                             button="#3e3f40e6"
                              button_title="#ced2d9"
                              button_text="#ced2d9"
                              button_text_hi="#ced2d9"
-                             tab_active="#373839"
+                             tab_active="#3e3f40"
                              tab_inactive="#18191a"
                              tab_back="#2c2d2ed9"
                              tab_outline="#373839">
             <panelcolors>
-              <ThemePanelColors header="#242526ff"
-                                back="#373839ff"
-                                show_header="FALSE"
+              <ThemePanelColors header="#323233ff"
+                                back="#323233ff"
+                                show_header="TRUE"
                                 show_back="FALSE">
               </ThemePanelColors>
             </panelcolors>
