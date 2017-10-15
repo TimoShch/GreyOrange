@@ -14,7 +14,7 @@
                              inner="#6d6f73ff"
                              inner_sel="#ba7e52ff"
                              item="#d18d5cff"
-                             text="#ced2d9"
+                             text="#000000"
                              text_sel="#000000"
                              show_shaded="FALSE"
                              shadetop="0"
@@ -613,7 +613,7 @@
       <ThemeSequenceEditor gp_vertex="#000000"
                            gp_vertex_select="#f2b949"
                            gp_vertex_size="3"
-                           grid="#373839"
+                           grid="#2c2d2e"
                            window_sliders="#a0a0a0"
                            movie_strip="#4d6e8c"
                            movieclip_strip="#232d8c"
@@ -631,7 +631,7 @@
                            metadatabg="#000000"
                            metadatatext="#ced2d9">
         <space>
-          <ThemeSpaceGeneric back="#6d6f73"
+          <ThemeSpaceGeneric back="#57595c"
                              title="#000000"
                              text="#000000"
                              text_hi="#f5af6e"
@@ -726,12 +726,12 @@
       </ThemeTextEditor>
     </text_editor>
     <timeline>
-      <ThemeTimeline grid="#373839"
+      <ThemeTimeline grid="#313233"
                      frame_current="#d18d5c"
                      time_keyframe="#d9ad6d"
                      time_grease_pencil="#7bd941">
         <space>
-          <ThemeSpaceGeneric back="#6d6f73"
+          <ThemeSpaceGeneric back="#57595c"
                              title="#000000"
                              text="#000000"
                              text_hi="#f5af6e"
