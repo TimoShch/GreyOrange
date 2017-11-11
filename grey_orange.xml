@@ -14,7 +14,7 @@
                              inner="#6d6f73ff"
                              inner_sel="#ba7e52ff"
                              item="#d18d5cff"
-                             text="#000000"
+                             text="#ced2d9"
                              text_sel="#000000"
                              show_shaded="FALSE"
                              shadetop="0"
@@ -430,11 +430,11 @@
       </ThemeFileBrowser>
     </file_browser>
     <nla_editor>
-      <ThemeNLAEditor grid="#3d3e40"
+      <ThemeNLAEditor grid="#303030"
                       view_sliders="#969696"
                       active_action="#cc8b4766"
-                      active_action_unset="#998d6366"
-                      strips="#0c0c0d"
+                      active_action_unset="#99855c66"
+                      strips="#000000"
                       strips_selected="#c98f59"
                       transition_strips="#1c2630"
                       transition_strips_selected="#2e75db"
@@ -448,7 +448,7 @@
                       keyframe_border_selected="#000000ff"
                       frame_current="#d18d5c">
         <space>
-          <ThemeSpaceGeneric back="#6d6f73"
+          <ThemeSpaceGeneric back="#47484a"
                              title="#000000"
                              text="#000000"
                              text_hi="#ced2d9"
