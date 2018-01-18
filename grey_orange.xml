@@ -302,7 +302,7 @@
                    skin_root="#000000"
                    view_overlay="#000000"
                    transform="#d0d4db"
-                   frame_current="#60c040"
+                   frame_current="#d18d5c"
                    paint_curve_handle="#7fff7f7f"
                    paint_curve_pivot="#ff7f7f7f"
                    outline_width="1">
@@ -566,7 +566,7 @@
                         preview_stitch_active="#e1d2c323"
                         uv_shadow="#707070ff"
                         uv_others="#959ba6ff"
-                        frame_current="#60c040"
+                        frame_current="#d18d5c"
                         metadatabg="#000000"
                         metadatatext="#ffffff"
                         handle_free="#f04848"
@@ -585,8 +585,8 @@
         <space>
           <ThemeSpaceGeneric back="#494a4d"
                              title="#ced2d9"
-                             text="#ced2d9"
-                             text_hi="#ced2d9"
+                             text="#000000"
+                             text_hi="#000000"
                              header="#3e3f40"
                              header_text="#ced2d9"
                              header_text_hi="#ced2d9"
