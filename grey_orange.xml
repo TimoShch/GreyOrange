@@ -585,8 +585,8 @@
         <space>
           <ThemeSpaceGeneric back="#494a4d"
                              title="#ced2d9"
-                             text="#000000"
-                             text_hi="#000000"
+                             text="#ced2d9"
+                             text_hi="#ced2d9"
                              header="#3e3f40"
                              header_text="#ced2d9"
                              header_text_hi="#ced2d9"
