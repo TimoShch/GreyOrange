@@ -1000,18 +1000,18 @@
         group_node="#5c6873"
         group_socket_node="#ba7e52"
         frame_node="#7e90bb33"
-        matte_node="#872323"
+        matte_node="#993d3d"
         distor_node="#1b7b58"
         noodle_curving="5"
         grid_levels="2"
         dash_alpha="0.5"
-        input_node="#131414"
-        output_node="#131414"
+        input_node="#424242"
+        output_node="#424242"
         filter_node="#bce68d"
         vector_node="#6352cc"
-        texture_node="#4d7cc2"
-        shader_node="#349944"
-        script_node="#6e80b6"
+        texture_node="#e66d25"
+        shader_node="#32995e"
+        script_node="#177373"
         pattern_node="#6e80b6"
         layout_node="#6d6f73"
         geometry_node="#0eb195"
@@ -1188,12 +1188,12 @@
     </preferences>
     <console>
       <ThemeConsole
-        line_output="#8a9099"
-        line_input="#c3ccd9"
-        line_info="#79d94c"
+        line_output="#aeb0b3"
+        line_input="#dcdee2"
+        line_info="#60bf60"
         line_error="#f24949"
         cursor="#d18d5c"
-        select="#84888c33"
+        select="#7a859966"
         >
         <space>
           <ThemeSpaceGeneric
