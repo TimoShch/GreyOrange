@@ -17,3 +17,7 @@ Interface theme for Blender.
 ![03](images/goScreen_03.jpg)
 
 ![04](images/goScreen_04.jpg)
+
+![04](images/goScreen_05.jpg)
+
+![04](images/goScreen_06.jpg)
