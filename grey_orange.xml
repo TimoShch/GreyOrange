@@ -187,7 +187,7 @@
         <wcol_menu>
           <ThemeWidgetColors
             outline="#1b1b1cff"
-            inner="#66676bff"
+            inner="#6d6f73ff"
             inner_sel="#ba7e52ff"
             item="#000000ff"
             text="#000000"
@@ -859,6 +859,8 @@
         metadatatext="#d5d7d9"
         preview_range="#a14d0066"
         row_alternate="#ffffff05"
+        text_strip_cursor="#71a8ffff"
+        selected_text="#ffffff4d"
         >
         <space>
           <ThemeSpaceGeneric
