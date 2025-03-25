@@ -4,7 +4,7 @@ Dark neutral grey Blender's interface theme with orange accents.
 
 ## Installation
 
-This theme is available on [Blender's Extensions platform](https://extensions.blender.org/themes/grey-orange/)
+This theme is available on [Blender's Extensions platform](https://extensions.blender.org/themes/grey-orange/).
 
 (Optional):
 1. Clone or download ZIP
