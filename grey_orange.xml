@@ -39,7 +39,7 @@
             outline="#1b1b1cff"
             inner="#272829ff"
             inner_sel="#272829ff"
-            item="#262a2fff"
+            item="#996642cc"
             text="#d1d2d3"
             text_sel="#d18b5a"
             show_shaded="FALSE"
@@ -321,6 +321,10 @@
         </wcol_list_item>
         <wcol_state>
           <ThemeWidgetStateColors
+            error="#771111ff"
+            warning="#ac8737ff"
+            info="#28487dff"
+            success="#188625ff"
             inner_anim="#5fa653"
             inner_anim_sel="#65bf56"
             inner_key="#b38b51"
@@ -1021,6 +1025,7 @@
         simulation_zone="#b3242840"
         repeat_zone="#b4865c42"
         foreach_geometry_element_zone="#4879ba41"
+        closure_zone="#527f3333"
         >
         <space>
           <ThemeSpaceGeneric
@@ -1109,18 +1114,15 @@
       <ThemeInfo
         info_selected="#1b1b1c"
         info_selected_text="#d18d5c"
-        info_error="#1b1b1cff"
         info_error_text="#f24949"
-        info_warning="#1b1b1cff"
         info_warning_text="#6c98d9"
-        info_info="#1b1b1cff"
-        info_info_text="#79d94c"
+        info_info_text="#dadfe6"
         info_debug="#1b1b1cff"
         info_debug_text="#ae82d9"
         info_property="#236666ff"
-        info_property_text="#ffffff"
+        info_property_text="#dadfe6"
         info_operator="#235266ff"
-        info_operator_text="#ffffff"
+        info_operator_text="#dadfe6"
         >
         <space>
           <ThemeSpaceGeneric
@@ -1178,8 +1180,8 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#3d3d3dff"
-                back="#3d3d3dff"
+                header="#323233ff"
+                back="#3e3f40ff"
                 sub_back="#00000000"
                 >
               </ThemePanelColors>
@@ -1250,6 +1252,7 @@
         strips_selected="#ff981a"
         metadatabg="#000000"
         metadatatext="#ffffff"
+        preview_range="#a14d0066"
         handle_free="#f04848"
         handle_auto="#9df249"
         handle_align="#5cbde6"
