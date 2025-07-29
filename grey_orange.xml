@@ -19,8 +19,8 @@
         axis_y="#49cc3d"
         axis_z="#2663bf"
         gizmo_hi="#ffffff"
-        gizmo_primary="#ffe040"
-        gizmo_secondary="#47d4ff"
+        gizmo_primary="#e6ebf2"
+        gizmo_secondary="#03ff29"
         gizmo_view_align="#ffffff"
         gizmo_a="#11be5a"
         gizmo_b="#c63f3f"
@@ -321,10 +321,10 @@
         </wcol_list_item>
         <wcol_state>
           <ThemeWidgetStateColors
-            error="#771111ff"
-            warning="#ac8737ff"
-            info="#28487dff"
-            success="#188625ff"
+            error="#63111cff"
+            warning="#6e4433ff"
+            info="#434f61ff"
+            success="#32a72cff"
             inner_anim="#5fa653"
             inner_anim_sel="#65bf56"
             inner_key="#b38b51"
@@ -1114,8 +1114,8 @@
       <ThemeInfo
         info_selected="#1b1b1c"
         info_selected_text="#d18d5c"
-        info_error_text="#f24949"
-        info_warning_text="#6c98d9"
+        info_error_text="#ff0a00"
+        info_warning_text="#e09966"
         info_info_text="#dadfe6"
         info_debug="#1b1b1cff"
         info_debug_text="#ae82d9"
