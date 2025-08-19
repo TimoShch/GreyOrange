@@ -202,7 +202,7 @@
         <wcol_pulldown>
           <ThemeWidgetColors
             outline="#20202100"
-            inner="#38393bff"
+            inner="#36373800"
             inner_sel="#242526ff"
             item="#6d6f73ff"
             text="#d1d2d3"
@@ -321,8 +321,8 @@
         </wcol_list_item>
         <wcol_state>
           <ThemeWidgetStateColors
-            error="#63111cff"
-            warning="#6e4433ff"
+            error="#800d1bff"
+            warning="#99643dff"
             info="#434f61ff"
             success="#32a72cff"
             inner_anim="#5fa653"
@@ -1113,9 +1113,9 @@
     <info>
       <ThemeInfo
         info_selected="#1b1b1c"
-        info_selected_text="#d18d5c"
-        info_error_text="#ff0a00"
-        info_warning_text="#e09966"
+        info_selected_text="#dadfe6"
+        info_error_text="#dadfe6"
+        info_warning_text="#dadfe6"
         info_info_text="#dadfe6"
         info_debug="#1b1b1cff"
         info_debug_text="#ae82d9"
