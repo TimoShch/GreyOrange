@@ -2,6 +2,8 @@
 
 Dark neutral grey Blender's interface theme with orange accents.
 
+*This is Blender 5.x version of the theme. If you need this theme for previous versions of Blender check corresponding branch (or download a release).
+
 ## Installation
 
 This theme is available on [Blender's Extensions platform](https://extensions.blender.org/themes/grey-orange/).
@@ -10,7 +12,7 @@ This theme is available on [Blender's Extensions platform](https://extensions.bl
 1. Clone or download ZIP
 2. (optional) Extract .zip
 3. Open Blender User Preferences (Themes tab)
-4. Click "Install Theme..." and select **grey_orange.xml** file
+4. Click "Install..." and select **grey_orange.xml** file
 
 ## Some screenshots
 
