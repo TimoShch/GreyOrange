@@ -488,10 +488,12 @@
     <view_3d>
       <ThemeView3D
         grid="#0c0c0d99"
+        grid_major="#0c0c0dcc"
         clipping_border_3d="#313131ff"
         wire="#000000"
         wire_edit="#000000"
         edge_width="1"
+        gp_wire_edit="#99999980"
         gp_vertex="#000000"
         gp_vertex_select="#f2b949"
         gp_vertex_size="3"
@@ -560,7 +562,7 @@
               <ThemeGradientColors
                 background_type="SINGLE_COLOR"
                 high_gradient="#353637"
-                gradient="#202121"
+                gradient="#282929"
                 >
               </ThemeGradientColors>
             </gradients>
@@ -648,7 +650,9 @@
         keyframe_border_selected="#000000ff"
         keyframe_scale_factor="1"
         summary="#4d272766"
-        interpolation_line="#94e575cc"
+        anim_interpolation_linear="#94e575cc"
+        anim_interpolation_constant="#e59c7bcc"
+        anim_interpolation_other="#5dbabeb3"
         simulated_frames="#721e65ff"
         >
         <space>
@@ -793,6 +797,7 @@
     <node_editor>
       <ThemeNodeEditor
         grid="#333333"
+        node_outline="#ffffff26"
         node_selected="#b8c0cc"
         node_active="#d9925f"
         wire="#0d0d0dff"
@@ -890,7 +895,9 @@
       </ThemeInfo>
     </info>
     <preferences>
-      <ThemePreferences>
+      <ThemePreferences
+        match="#4772b3"
+        >
         <space>
           <ThemeSpaceGeneric
             back="#272829"
