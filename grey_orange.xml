@@ -12,10 +12,10 @@
         editor_outline_active="#ffffff2a"
         widget_text_cursor="#f2a46b"
         panel_roundness="0.4"
-        panel_header="#323233ff"
+        panel_header="#363637ff"
         panel_title="#d1d2d3"
         panel_text="#d1d2d3"
-        panel_back="#323233ff"
+        panel_back="#363637ff"
         panel_sub_back="#00000000"
         panel_outline="#6d6f7338"
         panel_active="#848a99ff"
@@ -45,7 +45,7 @@
         <wcol_regular>
           <ThemeWidgetColors
             outline="#212122bf"
-            outline_sel="#3d3d3dff"
+            outline_sel="#42454d80"
             inner="#272829ff"
             inner_sel="#272829ff"
             item="#996642cc"
@@ -108,7 +108,7 @@
         </wcol_radio>
         <wcol_text>
           <ThemeWidgetColors
-            outline="#212122bf"
+            outline="#42454d80"
             outline_sel="#3d3d3dff"
             inner="#1f2021ff"
             inner_sel="#7a7b80ff"
@@ -554,13 +554,13 @@
             title="#d1d2d3"
             text="#d1d2d3"
             text_hi="#d1d2d3"
-            header="#363738b3"
+            header="#36373800"
             header_text="#d1d2d3"
             header_text_hi="#d1d2d3"
             >
             <gradients>
               <ThemeGradientColors
-                background_type="SINGLE_COLOR"
+                background_type="RADIAL"
                 high_gradient="#353637"
                 gradient="#282929"
                 >
@@ -595,11 +595,11 @@
     <file_browser>
       <ThemeFileBrowser
         selected_file="#ba7e52"
-        row_alternate="#23242410"
+        row_alternate="#20212300"
         >
         <space>
           <ThemeSpaceGeneric
-            back="#353538"
+            back="#1f2021"
             title="#d1d2d3"
             text="#d1d2d3"
             text_hi="#d1d2d3"
@@ -645,7 +645,7 @@
     </nla_editor>
     <dopesheet_editor>
       <ThemeDopeSheet
-        grid="#303030"
+        grid="#1a1a1a"
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
         keyframe_scale_factor="1"
@@ -657,7 +657,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#47484a"
+            back="#363637"
             title="#000000"
             text="#d1d2d3"
             text_hi="#d1d2d3"
@@ -671,7 +671,7 @@
     </dopesheet_editor>
     <image_editor>
       <ThemeImageEditor
-        grid="#383838cc"
+        grid="#353638cc"
         vertex="#000000"
         vertex_select="#f29f52"
         vertex_size="3"
@@ -696,7 +696,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#39393a"
+            back="#2c2d2e"
             title="#d1d2d3"
             text="#d1d2d3"
             text_hi="#d1d2d3"
@@ -753,11 +753,11 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#3e3f40"
+            back="#272829"
             title="#d1d2d3"
             text="#d1d2d3"
             text_hi="#d1d2d3"
-            header="#3e3f40b3"
+            header="#272829ff"
             header_text="#d1d2d3"
             header_text_hi="#d1d2d3"
             >
